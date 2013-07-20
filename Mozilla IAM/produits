@@ -1,0 +1,106 @@
+<div class="slide products" id="firefox"><div>
+		<section>
+			<header>
+				<h2> Firefox </h2>
+			</header>
+			<img src="./pictures/firefox.jpg" alt="Firefox">
+		</section>
+	</div></div>
+
+	<div class="slide products" id="firefox-os"><div>
+		<section>
+			<header>
+				<h2> Firefox OS  </h2>
+			</header>
+			<img src="./pictures/firefoxos.jpg" alt="Firefox OS">
+		</section>
+	</div></div>
+
+
+	<div class="slide products" id="marketplace"><div>
+		<section>
+			<header>
+				<h2> Firefox Marketplace  </h2>
+			</header>
+			<img src="./pictures/marketplace.jpg" alt="Marketplace">
+		</section>
+	</div></div>
+
+
+	<div class="slide products" id="thunderbird"><div>
+		<section>
+			<header>
+				<h2> Thunderbird </h2>
+			</header>
+			<img src="./pictures/thunderbird.jpg" alt="thunderbird">
+		</section>
+	</div></div>
+
+
+	<div class="slide products" id="persona"><div>
+		<section>
+			<header>
+				<h2> Personna </h2>
+			</header>
+			<img src="./pictures/persona.jpg" alt="Persona">
+		</section>
+	</div></div>
+	
+	<div class="slide products" id="webmaker"><div>
+		<section>
+			<header>
+				<h2> webmaker </h2>
+			</header>
+			<img src="./pictures/webmaker.jpg" alt="Webmaker">
+		</section>
+	</div></div>
+
+
+	<div class="slide products" id="devtools"><div>
+		<section>
+			<header>
+				<h2> Developper Tools  </h2>
+			</header>
+			<img src="./pictures/devtools.jpg" alt="Devtools">
+		</section>
+	</div></div>
+
+
+	<div class="slide products" id="FireBug"><div>
+		<section>
+			<header>
+				<h2> FireBug  </h2>
+			</header>
+			<img src="./pictures/firebug.jpg" alt="Firebug">
+		</section>
+	</div></div>
+
+
+	<div class="slide products" id="bugzilla"><div>
+		<section>
+			<header>
+				<h2> Bugzilla  </h2>
+			</header>
+			<img src="./pictures/bugzilla.jpg" alt="Bugzilla">
+		</section>
+	</div></div>
+
+
+	<div class="slide products" id="gecko"><div>
+		<section>
+			<header>
+				<h2> Gecko  </h2>
+			</header>
+			<img src="./pictures/gecko.jpg" alt="Gecko">
+		</section>
+	</div></div>
+
+
+	<div class="slide products" id="XUL"><div>
+		<section>
+			<header>
+				<h2> XULrunner  </h2>
+			</header>
+			<img src="./pictures/xulrunner.jpg" alt="XULrunner">
+		</section>
+	</div></div>
